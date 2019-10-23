@@ -1,0 +1,9 @@
+install 32 bits drivers mesa-dri-drivers-18.3.6-3.fc29.i686
+libXcursor.i686
+libXinerama.i686
+libXi.i686
+libXrandr.i686
+libXScrnSaver-1.2.3-2.fc29.i686
+dbus-libs.i686
+pulseaudio-libs.i686
+
